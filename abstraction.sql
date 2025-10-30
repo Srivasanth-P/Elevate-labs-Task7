@@ -1,0 +1,1 @@
+select * from books_and_authors where Average_copies = 'High';
